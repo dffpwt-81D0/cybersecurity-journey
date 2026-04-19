@@ -55,8 +55,16 @@ Blueprint**, organized into:
 The plan is simple: **consistent daily effort, real hands-on practice, and 
 documentation of every step.**
 
-If you're also breaking into tech or cybersecurity — let's connect.
+If you're also breaking into tech or cybersecurity or already in the field — I'd love to connect and learn from you.
 We rise together. 💪
+
+## 🖼️ Screenshots
+
+![Cisco Course](./Cisco.JPG)
+![Gemini Mentor](./Gemini.JPG)
+![Gemini Mentor](./Gemini2.JPG)
+![NotebookLM Roadmap](./NotebokkLM.JPG)
+![NotebookLM](./NotebpokLM2.JPG)
 
 #Cybersecurity #LearningInPublic #CiscoNetAcad #GeminiAI #NotebookLM
 #CareerChange #Day1 #TechJourney #CybersecurityCareer
