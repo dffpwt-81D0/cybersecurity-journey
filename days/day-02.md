@@ -50,6 +50,20 @@ ipconfig
 
 > 💡 To see your MAC address too, run: `ipconfig /all`
 
+
+##Screenshots##
+
+## 📸 Day 2 Screenshots
+
+### Cisco NetAcad — Types of Attackers
+![Cisco NetAcad Module 1.4](../images/day-02/Cisco.JPG)
+
+### Gemini — My Cybersecurity Teacher Gem (IP & MAC addresses)
+![Gemini Custom Gem](../images/day-02/Gemini.JPG)
+
+### NotebookLM — 6-Month Blueprint Mind Map
+![NotebookLM Mind Map](../images/day-02/NotebookLM.JPG)
+
 ---
 
 ## ✅ Summary
