@@ -50,9 +50,6 @@ ipconfig
 
 > 💡 To see your MAC address too, run: `ipconfig /all`
 
-
-##Screenshots##
-
 ## 📸 Day 2 Screenshots
 
 ### Cisco NetAcad — Types of Attackers
