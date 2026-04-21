@@ -24,6 +24,19 @@ Completed Module 1 with a **100% quiz score**
 
 ---
 
+## 📸 Day 3 Screenshots
+
+### Cisco NetAcad — Module 1 quiz completed
+![Cisco NetAcad Module quiz](../images/day-03/Cisco.JPG)
+
+### Cisco NetAcad — Module 2
+![Cisco NetAcad Module 2.1.1](../images/day-03/Cisco2.JPG)
+
+### NotebookLM — 6-Month Blueprint Mind Map
+![NotebookLM Mind Map](../images/day-03/NotebookLM.JPG)
+
+---
+
 ## 💡 Insight
 Cybersecurity is not only technical—it is also human.  
 Attackers often exploit people, not just systems.
