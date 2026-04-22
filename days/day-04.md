@@ -62,7 +62,7 @@ in a single command output.
 ![Cisco - Hardware Vulnerabilities](../images/day-04/Cisco.jpg)
 ![CMD - netstat output](../images/day-04/cmd.jpg)
 ![Gemini - DNS](../images/day-04/Gemini1.jpg)
-![NotebookLM -6 Months Roadmap](../images/day-04/NotebookLM.jpg)
+![NotebookLM 6-months Roadmap](../images/day-04/NotebookLM.jpg)
 
 ---
 
