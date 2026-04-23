@@ -59,10 +59,10 @@ in a single command output.
 ---
 
 ## 📸 Screenshots
-![Cisco - Hardware Vulnerabilities](../images/day-04/Cisco.jpg)
-![CMD - netstat output](../images/day-04/cmd.jpg)
-![Gemini - DNS](../images/day-04/Gemini1.jpg)
-![NotebookLM 6-months Roadmap](../images/day-04/NotebookLM.jpg)
+![Cisco - Hardware Vulnerabilities](../images/day-04/Cisco.JPG)
+![CMD - netstat output](../images/day-04/cmd.JPG)
+![Gemini - DNS](../images/day-04/Gemini1.JPG)
+![NotebookLM 6-months Roadmap](../images/day-04/NotebookLM.JPG)
 
 ---
 
