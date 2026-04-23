@@ -102,10 +102,10 @@ a connection. Both executed successfully on Day 5.
 ---
 
 ## 📸 Screenshots
-![nslookup - google.com](../images/day-05/cmd.jpg)
-![ping - 8.8.8.8 vs 192.0.2.1](../images/day-05/cmd2.jpg)
-![Gemini - Data Packets & TCP Handshake](../images/day-05/Gemini.jpg)
-![Cisco - Hardware Vulnerabilities](../images/day-05/Cisco.jpg)
+![nslookup - google.com](../images/day-05/cmd.JPG)
+![ping - 8.8.8.8 vs 192.0.2.1](../images/day-05/cmd2.JPG)
+![Gemini - Data Packets & TCP Handshake](../images/day-05/Gemini.JPG)
+![Cisco - Hardware Vulnerabilities](../images/day-05/Cisco.JPG)
 
 ---
 
