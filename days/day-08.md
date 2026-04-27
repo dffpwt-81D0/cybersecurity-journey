@@ -107,10 +107,9 @@ This was not pursued — it arrived as a direct result of:
 
 ---
 ## 📸 Screenshots
-![Cisco - Module 2 Quiz 88%](../images/day-06/cisco-module2-quiz.jpg)
-![Gemini - Firewalls](../images/day-06/gemini-firewalls.jpg)
-![Windows Defender Firewall](../images/day-06/firewall-basic.jpg)
-![Advanced Security Inbound Rules](../images/day-06/firewall-advanced.jpg)
+![Cisco - Module 3](../images/day-08/Cisco.JPG)
+![Gemini - Windows vs Linux](../images/day-08/Gemini.JPG)
+![IBM Intro to Cybersecurity](../images/day-08/IBM.JPG)
 
 ---
 
