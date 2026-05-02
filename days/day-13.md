@@ -1,6 +1,6 @@
 # Day 13 — Module 3 Complete | Module 4: Protecting the Organisation
 
-**Date:** <!-- insert date -->
+**Date:** <!-- 02/05/2026 -->
 **Platform:** Cisco NetAcad
 **Milestone:** Module 3 Complete ✅ | Module 4 Started 🔄
 **Topics:** Module 3 Review | Security Appliances | 
