@@ -44,6 +44,23 @@ between specialisations including:
 
 ---
 
+## 📸 Screenshots
+
+### IBM SkillsBuild — Cybersecurity and Data (Completed)
+![Cybersecurity and Data — Completed 05 May 2026](../images/day-16/IBM2.JPG)
+> Course page confirming completion on 05 May 2026.
+> Rated 4.5/5 by 337 learners. 38,803 enrolled.
+
+---
+
+### IBM SkillsBuild — The Job Landscape (In Progress)
+![Your Future in Cybersecurity: The Job Landscape — 32% Complete](../images/day-16/IBM.JPG)
+> Module 2: Working in Cybersecurity — active session.
+> Learning objective: describe key responsibilities
+> of roles in the cybersecurity field.
+
+---
+
 ## 💡 Key Takeaway
 
 > The CIA Triad is not just a framework — it is the
@@ -84,6 +101,4 @@ toward matters early.
 
 ---
 
-Generally speaking this is just like a revision 
-of what I've already done on Cisco but no learning time is wasted.
 *[← Day 15](day-15.md) | [Day 17 →](day-17.md)*
