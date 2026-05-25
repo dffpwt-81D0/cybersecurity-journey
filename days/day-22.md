@@ -174,25 +174,25 @@ realistic scenario | MITRE ATT&CK Matrix
 ## 📸 Screenshots
 
 ### 🎭 IBM — Nation-State Hacker Profile
-![Nation-State Hacker](../images/day-22/Nation-State_Hacker.JPG)
+![Nation-State Hacker](../images/day-22/Nation-State Hacker.JPG)
 
 ### 🕵️ IBM — Malicious Insider Profile
-![Malicious Insider](../images/day-22/Insider_Threat.JPG)
+![Malicious Insider](../images/day-22/Insider Threat.JPG)
 
 ### 🎭 IBM — Hacktivist: Anonymous (Britannica)
 ![Hacktivist - Anonymous](../images/day-22/Hackivist.JPG)
 
 ### 🔬 IBM — Offensive Security Researchers
-![Ethical Hackers - Brian Krebs & Georgia Wiedman](../images/day-22/Ethical_Hackers.JPG)
+![Ethical Hackers - Brian Krebs & Georgia Wiedman](../images/day-22/Ethical Hackers.JPG)
 
 ### 🎣 IBM — Spear Phishing
-![Spear Phishing](../images/day-22/Spear_Phishing.JPG)
+![Spear Phishing](../images/day-22/Spear Phishing.JPG)
 
 ### 🌐 IBM — DNS Attack
-![DNS Attack](../images/day-22/DNS_Attack.JPG)
+![DNS Attack](../images/day-22/DNS Attack.JPG)
 
 ### 🗺️ Kaspersky — Cyberthreat Live Map
-![Cyberthreat Live Map](../images/day-22/Live_Map.JPG)
+![Cyberthreat Live Map](../images/day-22/Live Map.JPG)
 
 ### 🔗 IBM — Lockheed Martin Cyber Kill Chain®
 ![Lockheed Martin Kill Chain](../images/day-22/Lockhead.JPG)
